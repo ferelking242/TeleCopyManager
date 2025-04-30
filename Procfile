@@ -1,1 +1,1 @@
-start: python CopyBot.py
+start: python Bot.py
