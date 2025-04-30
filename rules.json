@@ -1,0 +1,8 @@
+{
+    "replace": {
+        "@ferelking2": "@alfred"
+    },
+    "preserve_mentions": [
+        "@beni12"
+    ]
+}
